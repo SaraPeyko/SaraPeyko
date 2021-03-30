@@ -1,7 +1,3 @@
-<p align="center"><img src="https://cdn.compsci.rocks/wp-content/uploads/2017/08/programming-isnt-what-you-know-768x384.png" width="400" height="200" alt="quote"></p>
-
-
-
 ## Hi, I'm Sara :raising_hand:
 
 I'm currently based in :round_pushpin: London :gb: I'm driven, motivated, c++ enthusiast.
