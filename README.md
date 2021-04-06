@@ -9,4 +9,4 @@ I'm currently based in :round_pushpin: London :gb: I'm driven, motivated, c++ en
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
 [![Visits Badge](https://badges.pufler.dev/visits/SaraPeyko/SaraPeyko)](https://badges.pufler.dev)[![Updated Badge](https://badges.pufler.dev/updated/SaraPeyko/SaraPeyko)](https://badges.pufler.dev) 
-
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/SaraPeyko)](https://badges.pufler.dev)
