@@ -10,4 +10,3 @@ I'm currently based in :round_pushpin: London :gb: I'm driven, motivated, c++ en
 
 [![Visits Badge](https://badges.pufler.dev/visits/SaraPeyko/SaraPeyko)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/SaraPeyko/SaraPeyko)](https://badges.pufler.dev) 
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/SaraPeyko)](https://badges.pufler.dev)
